@@ -13,3 +13,11 @@ ________________________________________________________________________________
  📌 Run the file (keker.exe) 📌
 
  📌 Enjoy 📌
+
+ # KEYWORDS, IGNORE
+
+  · valorant
+  · checker
+  · valorant checker
+  · riotgames
+  · combo checker
