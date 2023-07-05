@@ -16,8 +16,8 @@ ________________________________________________________________________________
 
  # KEYWORDS, IGNORE
 
-  · valorant
-  · checker
-  · valorant checker
-  · riotgames
-  · combo checker
+  · valorant  
+  · checker  
+  · valorant checker  
+  · riotgames  
+  · combo checker  
